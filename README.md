@@ -16,14 +16,7 @@
 ## Testing
 #### Unsecured Endpoint: **Rate limited by 5 requests per second**
 
- `curl -X POST \
-  http://localhost:8080/unsecured_countries_in_same_continent \
-  -H 'cache-control: no-cache' \
-  -H 'content-type: application/json' \
-  -H 'postman-token: 8ec880dd-fdf6-06eb-32e6-c0b26df37c10' \
-  -d '{
-"country_codes": ["IN", "MX"]
-}'`
+ `curl -X POST  http://localhost:8080/unsecured_countries_in_same_continent  -H 'content-type: application/json'  -d '{ "country_codes": ["IN", "MX"] }'`
 
 Response
 ```
