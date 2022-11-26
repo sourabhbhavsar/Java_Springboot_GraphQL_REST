@@ -3,3 +3,5 @@ language: java
 jdk:
   - oraclejdk17
   - openjdk17
+script:
+  - ./gradlew build --scan -s
