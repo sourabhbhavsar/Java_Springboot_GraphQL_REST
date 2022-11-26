@@ -134,15 +134,7 @@ Response
 
 #### Secured Endpoint: **Rate limited by 20 requests per second**
 
-`curl -X POST \
-  http://localhost:8080/secured_countries_in_same_continent \
-  -H 'authorization: Basic dGVzdDp0ZXN0' \
-  -H 'cache-control: no-cache' \
-  -H 'content-type: application/json' \
-  -H 'postman-token: 920a9387-dc43-a051-585b-b130c5374b92' \
-  -d '{
-"country_codes": ["CA", "US"]
-}'`
+`curl -X POST  http://localhost:8080/secured_countries_in_same_continent -H 'authorization: Basic dGVzdDp0ZXN0' -H 'content-type: application/json' -d '{ "country_codes": ["CA", "US"] }'`
 
 Response
 ```
