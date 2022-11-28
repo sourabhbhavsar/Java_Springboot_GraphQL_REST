@@ -2,6 +2,8 @@
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sourabhbhavsar/takehome/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sourabhbhavsar/takehome/tree/main)
 [![Known Vulnerabilities](https://snyk.io/test/github/sourabhbhavsar/takehome/badge.svg)](https://snyk.io/test/github/sourabhbhavsar/takehome)
+[![Maintainability](https://api.codeclimate.com/v1/badges/165a69f8f7a5136e1db5/maintainability)](https://codeclimate.com/github/sourabhbhavsar/takehome/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/165a69f8f7a5136e1db5/test_coverage)](https://codeclimate.com/github/sourabhbhavsar/takehome/test_coverage)
 
 ## Setup
 
