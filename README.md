@@ -1,6 +1,7 @@
 # takehome
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sourabhbhavsar/takehome/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sourabhbhavsar/takehome/tree/main)
+[![Known Vulnerabilities](https://snyk.io/test/github/{sourabhbhavsar}/{takehome}/badge.svg)]
 
 ## Setup
 
